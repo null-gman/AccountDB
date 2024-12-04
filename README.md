@@ -6,7 +6,7 @@ programed by "JS" and "SQLITE3 DBMS" using "nodejs" and ["sqlite3"](https://gith
 
 ### usage
 
-run main.js from root using nodeJS or denojs .****
+run "npm install" then run main.js from root folder using nodeJS or denojs .
 
 ```
 1- the program will check for file named "DataBase.db" 
